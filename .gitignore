@@ -1,0 +1,8 @@
+__pycache__/
+.venv/
+.env
+*.pyc
+.DS_Store
+
+# Downloaded source dataset (fetch with scripts/download_dataset.py)
+data/raw/*
